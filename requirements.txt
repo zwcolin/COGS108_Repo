@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+opendatasets
+geopandas
+plotly
+altair
+celluloid

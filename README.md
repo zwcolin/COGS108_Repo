@@ -2,8 +2,6 @@
 | Title | Author | Date |
 | --------------- | --------------- | --------------- |
 | COGS 108 Fall 2021 Project | Colin Wang | 11/17/2021 |
-| Notes on HTML | Weiyue Li | 12/08/2021 |
-
 
 # COGS 108 Fall 2021 Project
 #### Authors: Colin Wang, Weiyue Li, Luning Yang, Yuru Zhou
@@ -13,5 +11,3 @@
 - Many visualizations under Exploratory Data Analysis part are based on animations. It's strongly recommended to run the entire notebook and see these visualizations. Otherwise, you may find *.gif versions of the same visualizations under the `visualizations` folder. If some visualizations do not display inside the notebook, **try restarting the kernel and run each cell one-by-one manually**.
 
 - Some of our markdown formatting are done with the help of html encodings; however, these encodings won't properly show if you directly view the notebook on GitHub. Again, we strongly recommend you to open the notebook using Jupyter for best viewing conditions.
-
-- For our HTML, please pull our repo in your local folder and open it there given our HTML is too large to be displayed on GitHub.
